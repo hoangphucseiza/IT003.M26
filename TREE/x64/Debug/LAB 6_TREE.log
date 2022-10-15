@@ -1,0 +1,4 @@
+﻿  TREE.cpp
+C:\Users\Administrator\Desktop\CODE PROJECT\CAU TRUC DU LIEU GIAI THUAT\LAB 6_TREE\TREE.cpp(184): warning C4715: 'TimMax': not all control paths return a value
+C:\Users\Administrator\Desktop\CODE PROJECT\CAU TRUC DU LIEU GIAI THUAT\LAB 6_TREE\TREE.cpp(195): warning C4715: 'TimMin': not all control paths return a value
+  LAB 6_TREE.vcxproj -> C:\Users\Administrator\Desktop\CODE PROJECT\CAU TRUC DU LIEU GIAI THUAT\x64\Debug\LAB 6_TREE.exe
